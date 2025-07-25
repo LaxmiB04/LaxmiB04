@@ -5,11 +5,12 @@ I'm a passionate developer currently diving deep into *Data Structures & Algorit
 
 ##  Tech Stack
 
-###  Currently Learning:
+###  Tech I've Worked With:
 - *DSA with Java* 
-- *HTML, CSS, JavaScript, Bootstrap* for frontend development 
+- *HTML, CSS, JavaScript, Bootstrap, React.js* for frontend development
+- *Node.js for backend development 
 
-###  Next Steps:
-- *Tailwind CSS & React.js* for modern UI development 
-- *Node.js & Express.js* for backend development 
-- *SQL & MongoDB* for database management 
+### Currently Learning:
+- * Tailwind CSS * for modern UI development 
+- * Express.js* for backend development 
+- * SQL & MongoDB* for database management 
