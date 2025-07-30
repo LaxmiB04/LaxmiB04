@@ -8,7 +8,7 @@ I'm a passionate developer currently diving deep into *Data Structures & Algorit
 ###  Tech I've Worked With:
 - *DSA with Java* 
 - *HTML, CSS, JavaScript, Bootstrap, React.js* for frontend development
-- *Node.js for backend development 
+- *Node.js* for backend development 
 
 ### Currently Learning:
 - *Express.js* for backend development 
