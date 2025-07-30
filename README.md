@@ -11,6 +11,5 @@ I'm a passionate developer currently diving deep into *Data Structures & Algorit
 - *Node.js for backend development 
 
 ### Currently Learning:
-- *Tailwind CSS* for modern UI development 
 - *Express.js* for backend development 
 - *SQL & MongoDB* for database management 
